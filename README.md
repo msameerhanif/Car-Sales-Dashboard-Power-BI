@@ -21,7 +21,7 @@ I developed this interactive Power BI dashboard to visualize Toyota’s global c
 - Used Power Query for data transformation and structuring.
 - Created DAX measures for total revenue, revenue PY (previous year), and growth KPIs.
 
-##Dashboard
+## Dashboard
 <img width="943" height="529" alt="Screenshots (2)" src="https://github.com/user-attachments/assets/3c1f18da-f004-4a1a-9b72-40d9e06dc6ee" />
 
 
